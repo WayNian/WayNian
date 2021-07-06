@@ -4,7 +4,7 @@
 
 ### 哪里可以找到我？🤔
 
-- [waynian]([https://www.waynian.com/)
+- [waynian](https://www.waynian.com)
 - [github](https://github.com/WayNian)
   
   
